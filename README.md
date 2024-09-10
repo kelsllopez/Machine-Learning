@@ -113,7 +113,7 @@ Seria el El F1-Score es una métrica que balancea la precisión y la tasa de ver
 
 **Interpretación:** Un buen valor de F1-Score indica que el modelo tiene un buen balance entre precisión y TPR, lo cual es útil en situaciones donde ambos errores deben ser minimizados.
 
-![image](https://github.com/user-attachments/assets/343805d0-b474-454e-a73c-69ecea20c8de)
+![image](https://github.com/user-attachments/assets/472656d0-d36d-4d3d-9873-d800670201e7)
 
 ---
 
